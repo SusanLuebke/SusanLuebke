@@ -1,8 +1,8 @@
 - 👋 Hey Hey, I’m @SusanLuebke
-- 👀 I’m interested in hiking, conservation, good whisk(e)y, respecting our collective history and expoloring our future potential with technology
-- 🌱 I’m currently learning full stack development with Tech Returners
-- 💞️ I’m looking to collaborate on projects good for the environment, cutting edge && / || just plain fun
-- 🌱 I’m an eight year CES alum
+- I’m interested in hiking, conservation, good whisk(e)y, respecting our collective history and expoloring our future potential with technology
+- I’m currently learning full stack development with Tech Returners
+- I’m looking to collaborate on projects good for the environment, cutting edge && / || just plain fun
+- I’m an eight year CES alum
 - 📫 Best to reach me via LinkedIn
 
 <!---
