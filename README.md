@@ -1,0 +1,11 @@
+- 👋 Hey Hey, I’m @SusanLuebke
+- 👀 I’m interested in good whisk(e)y, hiking, conservation, respecting history and expoloring our future potential with technology
+- 🌱 I’m currently learning full stack with Tech Returners
+- 💞️ I’m looking to collaborate on projects good for the environment, cutting edge || just plain fun
+- 🌱 I’m an eight year CES alum
+- 📫 Best to reach me via LinkedIn
+
+<!---
+SusanLuebke/SusanLuebke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
